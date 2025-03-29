@@ -4,18 +4,25 @@
 - 🌱 Estudando desenvolvimento de sistemas no Senai-Floripa
 - 😄 Pronomes: Ele/Dele
 
+## Estatísticas do meu perfil 
+
  <div>
   <a href="https://github.com/Shiroishiii">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shiroishiii&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shiroishiii&layout=compact&langs_count=16&theme=chartreuse-dark"/>
 </div>
-   
-</div>
-<div style="display: inline_block"><br>
-  <img align="right" alt="solo-levelening" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTU1cjdibnNtd2lnaGg2OTAzcDZyY20xM3BkemVnbTQ0OGUybGp0cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zkNBtlymM6zX4DndrU/giphy.gif">
-</div>
 
-  ##
+## Minhas contribuições
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shiroishiii&theme=chartreuse-dark)
+
+![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=Shiroishiii&theme=chartreuse-dark)
+
+<div style="display: inline_block"><br>
+  <img align="right" alt="deku" weight="300" height="200" src="https://media.giphy.com/media/agLzP4BYRPcOY/giphy.gif?cid=ecf05e47pqvhi7ehicl732m5rm47kdw6maqem9ilbi2o8ptc&ep=v1_gifs_related&rid=giphy.gif&ct=g">
+</div>
+   
+  ## Meus contatos
  
 <div> 
   <a href="https://instagram.com/isaac_danttas08/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
