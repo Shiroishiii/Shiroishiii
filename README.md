@@ -12,9 +12,8 @@
    
 </div>
 <div style="display: inline_block"><br>
-  <img align="right" alt="solo-levelening" src="[https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif](https://tenor.com/pt-BR/view/solo-leveling-sung-jin-woo-solo-level-saahas-gif-27485947)">
+  <img align="right" alt="solo-levelening" src="https://cdn.discordapp.com/attachments/79535891417397249/825430589581688872/hi.gif">
 </div>
-  
 
   ##
  
