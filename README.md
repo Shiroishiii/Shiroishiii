@@ -2,7 +2,7 @@
 
 - 🔭 Procurando oportunidades de trabalho...
 - 🌱 Estudando desenvolvimento de sistemas no Senai-Floripa
-- 😄 Pronouns: Ele/Dele
+- 😄 Pronomes: Ele/Dele
 
  <div>
   <a href="https://github.com/Shiroishiii">
@@ -12,7 +12,7 @@
    
 </div>
 <div style="display: inline_block"><br>
-  <img align="right" alt="solo-levelening" src="https://cdn.discordapp.com/attachments/79535891417397249/825430589581688872/hi.gif">
+  <img align="right" alt="solo-levelening" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTU1cjdibnNtd2lnaGg2OTAzcDZyY20xM3BkemVnbTQ0OGUybGp0cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zkNBtlymM6zX4DndrU/giphy.gif">
 </div>
 
   ##
