@@ -2,7 +2,6 @@
 
 - 🔭 Procurando oportunidades de trabalho...
 - 🌱 Estudando desenvolvimento de sistemas no Senai-Floripa
-- 😄 Pronomes: Ele/Dele
 
 ## Estatísticas do meu perfil 
 
