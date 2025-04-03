@@ -14,8 +14,6 @@
 ## Minhas contribuições
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shiroishiii&theme=chartreuse-dark)
-
-![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=Shiroishiii&theme=chartreuse-dark)
    
   ## Meus contatos
  
