@@ -9,13 +9,8 @@
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shiroishiii&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&cache_seconds=1800"/>
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shiroishiii&layout=compact&langs_count=8&theme=chartreuse-dark&cache_seconds=1800"/>
-</div><div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shiroishiii&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&cache_seconds=1800"/>
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shiroishiii&layout=compact&langs_count=8&theme=chartreuse-dark&cache_seconds=1800"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shiroishiii&theme=github_dark"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shiroishiii&theme=github_dark"/>
 </div>
 ---
 
