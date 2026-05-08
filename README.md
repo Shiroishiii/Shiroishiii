@@ -32,9 +32,9 @@
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=shiroishiii&show_icons=true&theme=chartreuse-dark&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=shiroishiii&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiroishiii&layout=compact&theme=chartreuse-dark&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shiroishiii&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
