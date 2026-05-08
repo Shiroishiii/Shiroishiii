@@ -32,9 +32,9 @@
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=shiroishiii&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=shiroishiii&show_icons=true&theme=gruvbox&hide_border=true"/>
 
-<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shiroishiii&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shiroishiii&layout=compact&theme=gruvbox&hide_border=true"/>
 
 </div>
 
@@ -44,7 +44,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shiroishiii&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shiroishiii&theme=gruvbox&hide_border=true"/>
 
 </div>
 
