@@ -32,9 +32,9 @@
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=shiroishiii&show_icons=true&theme=gruvbox&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=shiroishiii&show_icons=true&bg_color=000000&title_color=a855f7&text_color=c084fc&icon_color=d8b4fe&border_color=111111"/>
 
-<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shiroishiii&layout=compact&theme=gruvbox&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shiroishiii&layout=compact&bg_color=000000&title_color=a855f7&text_color=c084fc&icon_color=d8b4fe&border_color=111111"/>
 
 </div>
 
@@ -44,7 +44,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shiroishiii&theme=gruvbox&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shiroishiii&&bg_color=000000&title_color=a855f7&text_color=c084fc&icon_color=d8b4fe&border_color=111111"/>
 
 </div>
 
@@ -54,6 +54,10 @@
 
 <div align="center"> 
 
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGRuaTRqMWQwNHg2Y3ZuMXlxbHR1cGJqNHM4OWp4eGF3bzd0Y3dlNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mk5fgcFBQBnVzNymyx/giphy.gif">
+
+---
+  
 <a href="https://instagram.com/isaac_danttas08/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
@@ -73,7 +77,3 @@
 </div>
 
 ---
-
-<div align="right">
-  <img height="180" src="https://media.giphy.com/media/agLzP4BYRPcOY/giphy.gif">
-</div>
