@@ -21,8 +21,8 @@
 ## 🚀 Tecnologias que uso
 
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mysql,git,github" />
+  
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,prisma,mysql,postgres,postman,git,github" />
 
 </div>
 
