@@ -30,6 +30,12 @@
 
 > *「静かな夜ほど、よく考える。」*
 
+<div align="center">
+
+<img src="https://media1.giphy.com/media/PKqK4mvIxrjbAmA4RF/giphy.gif" width="500" alt="Shiroishiii">
+
+</div>
+
 Hey, I'm **Isaac Dantas**, but most people know me online as **Shiroishiii**.
 
 I'm a Systems Development student from Florianópolis, Brazil, interested in building things for the web and turning ideas into something people can actually use.
